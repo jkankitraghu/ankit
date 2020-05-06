@@ -1,0 +1,10 @@
+Date -5/5/2020
+Reference-https://www.atlassian.com/git/tutorials
+Creating GitHub Repository, Use of following commands:
+init, configure,  origin, add,  commit, push,  status, commit
+===============================================================
+Date -6/5/2020
+Reference-https://www.atlassian.com/git/tutorials
+Use of commands: 
+branch, checkout, pull, merge, fetch, rebase
+===============================================================
